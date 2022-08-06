@@ -9,7 +9,9 @@ Each day will display the current date according to the French Republican calend
 
 ## Loading the calendar
 ### Outlook
-Go to File->Open & Export->Open Calendar and choose the appropriate .ics file. 
+Download the .ics files for the year(s) of your choosing.
+
+Go to File->Open & Export->Open Calendar and choose the downloaded .ics file. 
 
 You can then choose to "Open as new" or "Import". 
 
