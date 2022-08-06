@@ -20,7 +20,12 @@ You can then choose to "Open as new" or "Import".
 Also note that Outlook displays an error while importing, but it doesn't seem to cause any issues.
 
 ### Google Calendar
-to do.
+Next to "Other calendars" click the + button and choose "From URL". Enter any of the following URLs and click "Add calendar":
+- 2022: `https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012022-31122022.ics`
+- 2023: `https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012023-31122023.ics`
+- 2024: `https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012024-31122024.ics`
+- 2025: `https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012025-31122025.ics`
+
 
 ## Files in this repository
 ### French Republican iCalendar files
