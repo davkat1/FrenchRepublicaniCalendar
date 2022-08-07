@@ -5,7 +5,7 @@ This repository includes iCalendar (.ics) files of the French Republican calenda
 
 The ics files can be loaded onto an Outlook or Google calendar. They will appear as calendar events for each day, marked as free with no reminders (similar to other holiday calendars).
 
-Each day will display the current date according to the French Republican calendar and the corresponding rural day name.
+Each day will display the current date according to the French Republican calendar and the corresponding [rural day name](https://en.wikipedia.org/wiki/French_Republican_calendar#Rural_calendar).
 
 ## Loading the calendar
 ### Outlook
