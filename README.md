@@ -9,7 +9,11 @@ Each day will display the current date according to the French Republican calend
 
 ## Loading the calendar
 ### Outlook
-Download the .ics files for the year(s) of your choosing.
+Download the .ics files for the year(s) of your choosing:
+- 2022: [`https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012022-31122022.ics`](https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012022-31122022.ics)
+- 2023: [`https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012023-31122023.ics`](https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012023-31122023.ics)
+- 2024: [`https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012024-31122024.ics`](https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012024-31122024.ics)
+- 2025: [`https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012025-31122025.ics`](https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012025-31122025.ics)
 
 Go to File->Open & Export->Open Calendar and choose the downloaded .ics file. 
 
