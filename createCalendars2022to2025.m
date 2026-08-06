@@ -3,6 +3,8 @@
 %   FrenchRepublicanCalnedar_01012023-31122023.ics
 %   FrenchRepublicanCalnedar_01012024-31122024.ics
 %   FrenchRepublicanCalnedar_01012025-31122025.ics
+%   FrenchRepublicanCalnedar_01012026-31122026.ics
+%   FrenchRepublicanCalnedar_01012027-31122027.ics
 
 % Created by David Katzin, Thermidor 230 (August 2022)
 % david.katzin1@gmail.com
@@ -12,3 +14,5 @@ createFrenchRepublicaniCalendar('01-01-2022', '31-12-2022');
 createFrenchRepublicaniCalendar('01-01-2023', '31-12-2023');
 createFrenchRepublicaniCalendar('01-01-2024', '31-12-2024');
 createFrenchRepublicaniCalendar('01-01-2025', '31-12-2025');
+createFrenchRepublicaniCalendar('01-01-2026', '31-12-2026');
+createFrenchRepublicaniCalendar('01-01-2027', '31-12-2027');

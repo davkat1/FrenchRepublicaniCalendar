@@ -1,7 +1,7 @@
 # French Republican iCalendar
 ## An iCalendar (.ics) file that displays the date and rural day name according to the [French Republican calendar](https://en.wikipedia.org/wiki/French_Republican_calendar)
 
-This repository includes iCalendar (.ics) files of the French Republican calendar for the years 2022, 2023, 2024, and 2025, and the MATLAB script used to make them.
+This repository includes iCalendar (.ics) files of the French Republican calendar for the years 2022, 2023, 2024, 2025, 2026, and 2027, and the MATLAB script used to make them.
 
 The ics files can be loaded onto an Outlook or Google calendar. They will appear as calendar events for each day, marked as free with no reminders (similar to other holiday calendars).
 
@@ -10,10 +10,12 @@ Each day will display the current date according to the French Republican calend
 ## Loading the calendar
 ### Outlook
 Download the .ics files for the year(s) of your choosing:
-- 2022: [`https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012022-31122022.ics`](https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012022-31122022.ics)
-- 2023: [`https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012023-31122023.ics`](https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012023-31122023.ics)
-- 2024: [`https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012024-31122024.ics`](https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012024-31122024.ics)
-- 2025: [`https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012025-31122025.ics`](https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012025-31122025.ics)
+- 2022: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012022-31122022.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012022-31122022.ics)
+- 2023: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012023-31122023.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012023-31122023.ics)
+- 2024: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012024-31122024.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012024-31122024.ics)
+- 2025: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012025-31122025.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012025-31122025.ics)
+- 2026: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012026-31122026.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012026-31122026.ics)
+- 2027: [`https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012027-31122027.ics`](https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012027-31122027.ics)
 
 Go to File->Open & Export->Open Calendar and choose the downloaded .ics file. 
 
@@ -27,10 +29,15 @@ Also note that Outlook displays an error while importing, but it doesn't seem to
 
 ### Google Calendar
 Next to "Other calendars" click the + button and choose "From URL". Enter any of the following URLs and click "Add calendar":
-- 2022: `https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012022-31122022.ics`
-- 2023: `https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012023-31122023.ics`
-- 2024: `https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012024-31122024.ics`
-- 2025: `https://raw.githubusercontent.com/davkat1/FrenchRepublicaniCalendar/main/FrenchRepublicanCalnedar_01012025-31122025.ics`
+- 2022: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012022-31122022.ics`
+- 2023: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012023-31122023.ics`
+- 2024: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012024-31122024.ics`
+- 2025: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012025-31122025.ics`
+- 2026: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012026-31122026.ics`
+- 2027: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012027-31122027.ics`
+- 2026-2030 subscription: `https://raw.githubusercontent.com/Imperator78/FrenchRepublicaniCalendar/adddedYears/FrenchRepublicanCalnedar_01012026-31122030.ics`
+
+If you want one Google Calendar subscription that keeps rolling through the next few years, use the 2026-2030 URL above.
 
 
 ## Files in this repository
@@ -41,12 +48,15 @@ These can be simply downloaded and installed as explained above.
 - 2023: `FrenchRepublicanCalnedar_01012023-31122023.ics`
 - 2024: `FrenchRepublicanCalnedar_01012024-31122024.ics`
 - 2025: `FrenchRepublicanCalnedar_01012025-31122025.ics`
+- 2026: `FrenchRepublicanCalnedar_01012026-31122026.ics`
+- 2027: `FrenchRepublicanCalnedar_01012027-31122027.ics`
+- 2026-2030 subscription: `FrenchRepublicanCalnedar_01012026-31122030.ics`
 
 ### Files used to generate the iCalendar files
 #### MATLAB files
 - `greg2rep.m`: Convert a Gregorian date (given as a `datetime` object) to a French Republican date (given as a `string`)
 - `createFrenchRepublicaniCalendar.m`: Create a French Republican iCalendar file for a given date span
-- `createCalendars2022to2025.m`: The script used to generate the iCalendar files above
+- `createCalendars2022to2025.m`: The script used to generate the iCalendar files above through 2027
 #### CSV files
 - `ruralDayNames.csv`: a list of the rural day names in English, following the [translation
 in Wikipedia](https://en.wikipedia.org/wiki/French_Republican_calendar#Rural_calendar), as it appeared on 19 Thermidor 230 (August 6, 2022).
